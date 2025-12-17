@@ -1,1 +1,1 @@
-Работа с github actions
+Работа с github actions.
